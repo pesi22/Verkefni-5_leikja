@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/petur/Documents/Leikjaforritun/Verkefni 5 - racer/Assets/CyberPunk/scenes/demo.unity
+  isLoaded: 1
+  isActive: 1
